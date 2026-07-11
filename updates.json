@@ -1,14 +1,9 @@
   [
     {
-      "date": "2026-07-10",
+      "date": "2026-07-11",
       "title": "initial release",
       "changes": [
-      ]
-    },
-        {
-      "date": "2026-07-11",
-      "title": "trace blocker",
-      "changes": [
+        version 1.0 release testing simple aimbot,esp,exploits.
         implented a trace blocker.
       ]
     }

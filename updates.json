@@ -1,17 +1,17 @@
-  [
-    {
-      "date": "2026-07-11",
-      "title": "initial release",
-      "changes": [
-        "version 1.0 release testing simple aimbot, esp, exploits",
-      ]
-    },
-    {
-      "date": "2026-07-21",
-      "title": "trace blocker enhancement",
-      "changes": [
-        "improved trace blocker implementation",
-        "support for windows versions win10-1803 -> win11-25h2"
-      ]
-    }
-  ]
+[
+  {
+    "date": "2026-07-11",
+    "title": "initial release",
+    "changes": [
+      "version 1.0 release testing simple aimbot, esp, exploits"
+    ]
+  },
+  {
+    "date": "2026-07-21",
+    "title": "trace blocker enhancement",
+    "changes": [
+      "improved trace blocker implementation",
+      "support for windows versions win10-1803 -> win11-25h2"
+    ]
+  }
+]
